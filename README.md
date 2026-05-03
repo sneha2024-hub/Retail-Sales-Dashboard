@@ -30,7 +30,7 @@ Sales peaked during mid-year, with specific product categories contributing sign
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Retail Sales Dashboard.png)
+[Retail Sales Dashboard.png]
 
 ---
 
@@ -54,6 +54,3 @@ Sales peaked during mid-year, with specific product categories contributing sign
 - Better understanding of data-driven decision making  
 
 ---
-
-## 🔗 Connect with Me
-LinkedIn: (add your profile link here)
