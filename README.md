@@ -30,7 +30,7 @@ Sales peaked during mid-year, with specific product categories contributing sign
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Retail Sales Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
